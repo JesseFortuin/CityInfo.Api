@@ -1,0 +1,36 @@
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Shared\bin\Debug\net6.0\CityInfo.Shared.deps.json
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Shared\bin\Debug\net6.0\CityInfo.Shared.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Shared\bin\Debug\net6.0\CityInfo.Shared.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.csproj.AssemblyReference.cache
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.AssemblyInfoInputs.cache
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.AssemblyInfo.cs
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.csproj.CoreCompileInputs.cache
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Shared\obj\Debug\net6.0\refint\CityInfo.Shared.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Shared\obj\Debug\net6.0\ref\CityInfo.Shared.dll
+D:\CityInfo\CityInfo.Shared\bin\Debug\net6.0\CityInfo.Shared.deps.json
+D:\CityInfo\CityInfo.Shared\bin\Debug\net6.0\CityInfo.Shared.dll
+D:\CityInfo\CityInfo.Shared\bin\Debug\net6.0\CityInfo.Shared.pdb
+D:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.csproj.AssemblyReference.cache
+D:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.AssemblyInfoInputs.cache
+D:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.AssemblyInfo.cs
+D:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.csproj.CoreCompileInputs.cache
+D:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.dll
+D:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\refint\CityInfo.Shared.dll
+D:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.pdb
+D:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\ref\CityInfo.Shared.dll
+H:\CityInfo\CityInfo.Shared\bin\Debug\net6.0\CityInfo.Shared.deps.json
+H:\CityInfo\CityInfo.Shared\bin\Debug\net6.0\CityInfo.Shared.dll
+H:\CityInfo\CityInfo.Shared\bin\Debug\net6.0\CityInfo.Shared.pdb
+H:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.csproj.AssemblyReference.cache
+H:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+H:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.AssemblyInfoInputs.cache
+H:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.AssemblyInfo.cs
+H:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.csproj.CoreCompileInputs.cache
+H:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.dll
+H:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\refint\CityInfo.Shared.dll
+H:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\CityInfo.Shared.pdb
+H:\CityInfo\CityInfo.Shared\obj\Debug\net6.0\ref\CityInfo.Shared.dll

@@ -1,0 +1,57 @@
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.csproj.AssemblyReference.cache
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.AssemblyInfoInputs.cache
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.AssemblyInfo.cs
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.csproj.CoreCompileInputs.cache
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CItyInfo.Application.deps.json
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CItyInfo.Application.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CItyInfo.Application.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Shared.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Shared.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.csproj.CopyComplete
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\obj\Debug\net6.0\refint\CItyInfo.Application.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\obj\Debug\net6.0\ref\CItyInfo.Application.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Entities.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Infrastructue.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Infrastructue.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Entities.pdb
+D:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.csproj.AssemblyReference.cache
+D:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.AssemblyInfoInputs.cache
+D:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.AssemblyInfo.cs
+D:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.csproj.CoreCompileInputs.cache
+D:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.dll
+D:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\refint\CItyInfo.Application.dll
+D:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.pdb
+D:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CItyInfo.Application.deps.json
+D:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CItyInfo.Application.dll
+D:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CItyInfo.Application.pdb
+D:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Entities.dll
+D:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Infrastructue.dll
+D:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Shared.dll
+D:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Infrastructue.pdb
+D:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Shared.pdb
+D:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Entities.pdb
+D:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.csproj.CopyComplete
+D:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\ref\CItyInfo.Application.dll
+H:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.csproj.AssemblyReference.cache
+H:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.AssemblyInfoInputs.cache
+H:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.AssemblyInfo.cs
+H:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.csproj.CoreCompileInputs.cache
+H:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.dll
+H:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\refint\CItyInfo.Application.dll
+H:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.pdb
+H:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CItyInfo.Application.deps.json
+H:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CItyInfo.Application.dll
+H:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CItyInfo.Application.pdb
+H:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Entities.dll
+H:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Infrastructue.dll
+H:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Shared.dll
+H:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Infrastructue.pdb
+H:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Shared.pdb
+H:\CityInfo\CItyInfo.Application\bin\Debug\net6.0\CityInfo.Entities.pdb
+H:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\CItyInfo.Application.csproj.CopyComplete
+H:\CityInfo\CItyInfo.Application\obj\Debug\net6.0\ref\CItyInfo.Application.dll

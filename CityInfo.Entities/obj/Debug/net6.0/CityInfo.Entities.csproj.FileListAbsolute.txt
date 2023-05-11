@@ -1,0 +1,36 @@
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Entities\bin\Debug\net6.0\CityInfo.Entities.deps.json
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Entities\bin\Debug\net6.0\CityInfo.Entities.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Entities\bin\Debug\net6.0\CityInfo.Entities.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.csproj.AssemblyReference.cache
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.AssemblyInfoInputs.cache
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.AssemblyInfo.cs
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.csproj.CoreCompileInputs.cache
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Entities\obj\Debug\net6.0\refint\CityInfo.Entities.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Entities\obj\Debug\net6.0\ref\CityInfo.Entities.dll
+D:\CityInfo\CityInfo.Entities\bin\Debug\net6.0\CityInfo.Entities.deps.json
+D:\CityInfo\CityInfo.Entities\bin\Debug\net6.0\CityInfo.Entities.dll
+D:\CityInfo\CityInfo.Entities\bin\Debug\net6.0\CityInfo.Entities.pdb
+D:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.csproj.AssemblyReference.cache
+D:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.AssemblyInfoInputs.cache
+D:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.AssemblyInfo.cs
+D:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.csproj.CoreCompileInputs.cache
+D:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.dll
+D:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\refint\CityInfo.Entities.dll
+D:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.pdb
+D:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\ref\CityInfo.Entities.dll
+H:\CityInfo\CityInfo.Entities\bin\Debug\net6.0\CityInfo.Entities.deps.json
+H:\CityInfo\CityInfo.Entities\bin\Debug\net6.0\CityInfo.Entities.dll
+H:\CityInfo\CityInfo.Entities\bin\Debug\net6.0\CityInfo.Entities.pdb
+H:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.csproj.AssemblyReference.cache
+H:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+H:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.AssemblyInfoInputs.cache
+H:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.AssemblyInfo.cs
+H:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.csproj.CoreCompileInputs.cache
+H:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.dll
+H:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\refint\CityInfo.Entities.dll
+H:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\CityInfo.Entities.pdb
+H:\CityInfo\CityInfo.Entities\obj\Debug\net6.0\ref\CityInfo.Entities.dll

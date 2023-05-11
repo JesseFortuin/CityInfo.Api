@@ -1,0 +1,5 @@
+H:\CityInfo\CityInfo.Infrastructure\obj\Debug\net6.0\CityInfo.Infrastructure.csproj.AssemblyReference.cache
+H:\CityInfo\CityInfo.Infrastructure\obj\Debug\net6.0\CityInfo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\CityInfo\CityInfo.Infrastructure\obj\Debug\net6.0\CityInfo.Infrastructure.AssemblyInfoInputs.cache
+H:\CityInfo\CityInfo.Infrastructure\obj\Debug\net6.0\CityInfo.Infrastructure.AssemblyInfo.cs
+H:\CityInfo\CityInfo.Infrastructure\obj\Debug\net6.0\CityInfo.Infrastructure.csproj.CoreCompileInputs.cache

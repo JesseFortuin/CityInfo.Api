@@ -1,9 +1,8 @@
 ﻿using AutoMapper;
-using CityInfo.API.Models;
-using CityInfo.API.Services;
+using CityInfo.Shared.Models;
+using CItyInfo.Application;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using System.Text.Json;
 
 namespace CityInfo.API.Controllers
 {
@@ -17,18 +16,16 @@ namespace CityInfo.API.Controllers
     //access to model state, current user, methods to return responses
     public class CitiesController : ControllerBase
     {
-        private readonly ICityInfoRepository _cityInfoRepository;
-        
         private readonly IMapper _mapper;
+        private readonly ICitiesFacade _citiesFacade;
+        
 
-        const int maxCitiesPageSize = 20;
-
-        public CitiesController(ICityInfoRepository cityInfoRepository,
-            IMapper mapper)
+        public CitiesController(
+            IMapper mapper,
+            ICitiesFacade citiesFacade)
         {
-            _cityInfoRepository = cityInfoRepository ?? 
-                throw new ArgumentNullException(nameof(cityInfoRepository));
             _mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
+            _citiesFacade = citiesFacade;
         }
 
         //action level
@@ -37,18 +34,11 @@ namespace CityInfo.API.Controllers
         public async Task<ActionResult<IEnumerable<CityWithoutPointsOfInterestDto>>> GetCities(
             string? name, string? searchQuery, int pageNumber = 1, int pageSize = 10)
         {
-            if (pageSize > maxCitiesPageSize)
-            {
-                pageSize = maxCitiesPageSize;
-            }
+            var cityEntities = _citiesFacade.GetCitiesWithoutPointsOfInterestAsync(name, searchQuery, pageNumber, pageSize);
 
-            var (cityEntities, paginationMetadata) = await _cityInfoRepository
-                .GetCitiesAsync(name, searchQuery, pageNumber, pageSize);
+            //Response.Headers.Add("X-Pagination", JsonSerializer.Serialize(paginationMetadata));
 
-            Response.Headers.Add("X-Pagination", JsonSerializer.Serialize(paginationMetadata));
-           
-            return Ok(_mapper.Map<IEnumerable<CityWithoutPointsOfInterestDto>>(cityEntities));
-            //return Ok(_citiesDataStore.Cities);
+            return Ok(cityEntities);
         }
 
         /// <summary>
@@ -62,21 +52,34 @@ namespace CityInfo.API.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public async Task<IActionResult> GetCity(
+        public async Task<IActionResult> GetCityById(
             int id, bool includePointsOfInterest = false)
         {
-            var city = await _cityInfoRepository.GetCityAsync(id, includePointsOfInterest);
-            if (city == null)
+            //if (city == null)
+            //{
+            //    return NotFound();
+            //}
+
+            if (includePointsOfInterest)
+            {
+                var cityWithPointsOfInterest = await _citiesFacade.GetCityByIdWithPointsOfInterest(id);
+
+                if (cityWithPointsOfInterest == null)
+                {
+                    return NotFound();
+                }
+
+                return Ok(cityWithPointsOfInterest);
+            }
+
+            var cityWithoutPointsOfInterest = await _citiesFacade.GetCityByIdWithoutPointsOfInterestAsync(id);
+
+            if (cityWithoutPointsOfInterest == null)
             {
                 return NotFound();
             }
-            
-            if (includePointsOfInterest)
-            {
-                return Ok(_mapper.Map<CityDto>(city));
-            }
 
-            return Ok(_mapper.Map<CityWithoutPointsOfInterestDto>(city));
+            return Ok(cityWithoutPointsOfInterest);
             //if an exception is not handled now, a 500 server error appears
         }
     }

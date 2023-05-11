@@ -1,0 +1,57 @@
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Infrastructue.deps.json
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Infrastructue.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Infrastructue.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.csproj.AssemblyReference.cache
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.AssemblyInfoInputs.cache
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.AssemblyInfo.cs
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.csproj.CoreCompileInputs.cache
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\refint\CityInfo.Infrastructue.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\ref\CityInfo.Infrastructue.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Infrastructue.runtimeconfig.json
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Entities.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Shared.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Entities.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Shared.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.csproj.CopyComplete
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.genruntimeconfig.cache
+D:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Infrastructue.deps.json
+D:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Infrastructue.runtimeconfig.json
+D:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Infrastructue.dll
+D:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Infrastructue.pdb
+D:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Entities.dll
+D:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Shared.dll
+D:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Entities.pdb
+D:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Shared.pdb
+D:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.csproj.AssemblyReference.cache
+D:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.GeneratedMSBuildEditorConfig.editorconfig
+D:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.AssemblyInfoInputs.cache
+D:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.AssemblyInfo.cs
+D:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.csproj.CoreCompileInputs.cache
+D:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.csproj.CopyComplete
+D:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.dll
+D:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\refint\CityInfo.Infrastructue.dll
+D:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.pdb
+D:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.genruntimeconfig.cache
+D:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\ref\CityInfo.Infrastructue.dll
+H:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Infrastructue.deps.json
+H:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Infrastructue.runtimeconfig.json
+H:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Infrastructue.dll
+H:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Infrastructue.pdb
+H:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Entities.dll
+H:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Shared.dll
+H:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Entities.pdb
+H:\CityInfo\CityInfo.Infrastructue\bin\Debug\net6.0\CityInfo.Shared.pdb
+H:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.csproj.AssemblyReference.cache
+H:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.GeneratedMSBuildEditorConfig.editorconfig
+H:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.AssemblyInfoInputs.cache
+H:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.AssemblyInfo.cs
+H:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.csproj.CoreCompileInputs.cache
+H:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.csproj.CopyComplete
+H:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.dll
+H:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\refint\CityInfo.Infrastructue.dll
+H:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.pdb
+H:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\CityInfo.Infrastructue.genruntimeconfig.cache
+H:\CityInfo\CityInfo.Infrastructue\obj\Debug\net6.0\ref\CityInfo.Infrastructue.dll

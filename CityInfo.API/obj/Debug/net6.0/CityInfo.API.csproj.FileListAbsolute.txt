@@ -14,7 +14,6 @@ D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\obj\Deb
 D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.AssemblyInfoInputs.cache
 D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.AssemblyInfo.cs
 D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.csproj.CoreCompileInputs.cache
-D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.MvcApplicationPartsAssemblyInfo.cs
 D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.MvcApplicationPartsAssemblyInfo.cache
 D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets\msbuild.CityInfo.API.Microsoft.AspNetCore.StaticWebAssets.props
 D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\obj\Debug\net6.0\staticwebassets\msbuild.build.CityInfo.API.props
@@ -253,3 +252,28 @@ D:\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.API.xml
 D:\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
 D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.API.xml
 D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\bin\Debug\net6.0\CItyInfo.Application.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Entities.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Infrastructue.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Shared.dll
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\bin\Debug\net6.0\CItyInfo.Application.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Entities.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Infrastructue.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Shared.pdb
+D:\Dev\Lessons\ASP.NET Core 6 Web API Fundamentals\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.MvcApplicationPartsAssemblyInfo.cs
+D:\CityInfo\CityInfo.API\bin\Debug\net6.0\CItyInfo.Application.dll
+D:\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Entities.dll
+D:\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Infrastructue.dll
+D:\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Shared.dll
+D:\CityInfo\CityInfo.API\bin\Debug\net6.0\CItyInfo.Application.pdb
+D:\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Entities.pdb
+D:\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Infrastructue.pdb
+D:\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Shared.pdb
+H:\CityInfo\CityInfo.API\bin\Debug\net6.0\CItyInfo.Application.dll
+H:\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Entities.dll
+H:\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Infrastructue.dll
+H:\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Shared.dll
+H:\CityInfo\CityInfo.API\bin\Debug\net6.0\CItyInfo.Application.pdb
+H:\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Entities.pdb
+H:\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Infrastructue.pdb
+H:\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.Shared.pdb

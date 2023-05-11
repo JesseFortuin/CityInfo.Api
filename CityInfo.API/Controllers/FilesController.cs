@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using CItyInfo.Application;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.StaticFiles;
@@ -11,12 +12,17 @@ namespace CityInfo.API.Controllers
     public class FilesController : ControllerBase
     {
         private readonly FileExtensionContentTypeProvider _fileExtensionContentTypeProvider;
+        private readonly IFilesFacade _filesFacade;
 
-        public FilesController (FileExtensionContentTypeProvider fileExtensionContentTypeProvider)
+        public FilesController (
+            FileExtensionContentTypeProvider fileExtensionContentTypeProvider,
+            IFilesFacade filesFacade)
         {
             _fileExtensionContentTypeProvider = fileExtensionContentTypeProvider
                 ?? throw new System.ArgumentException(nameof
                 (fileExtensionContentTypeProvider));
+
+            _filesFacade = filesFacade;
         }
 
         [HttpGet("{fileId}")]
@@ -24,7 +30,7 @@ namespace CityInfo.API.Controllers
         {
             var pathToFile = "getting-started-with-rest-slides.pdf";
 
-            if (!System.IO.File.Exists(pathToFile)) 
+            if (!System.IO.File.Exists(pathToFile))
             {
                 return NotFound();
             }

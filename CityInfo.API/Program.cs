@@ -1,7 +1,9 @@
 //web apps must be hosted, can use a builder
 using CityInfo.API;
-using CityInfo.API.DbContexts;
-using CityInfo.API.Services;
+using CityInfo.Infrastructue;
+using CityInfo.Infrastructue.DataAccess;
+using CityInfo.Infrastructue.Services;
+using CItyInfo.Application;
 using Microsoft.AspNetCore.StaticFiles;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -78,7 +80,7 @@ builder.Services.AddSingleton<FileExtensionContentTypeProvider>();
 
 #if DEBUG
 //this says whenever using interface, use specified instance of that class
-builder.Services.AddTransient<IMailService, LocalMailService>();
+//builder.Services.AddTransient<IMailService, LocalMailService>();
 
 #else
 
@@ -94,6 +96,16 @@ DbContextOptions.UseSqlite(
 
 //mock repositories can be added the same way replacing it in the argument
 builder.Services.AddScoped<ICityInfoRepository, CityInfoRepository>();
+
+builder.Services.AddScoped<ICitiesFacade, CitiesFacade>();
+
+builder.Services.AddScoped<IMailService, LocalMailService>();
+
+//builder.Services.AddScoped<IMailService, CloudMailService>();
+
+builder.Services.AddScoped<IPointsOfInterestFacade, PointsOfInterestFacade>();
+
+builder.Services.AddScoped<IAuthenticationFacade, AuthenticationFacade>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
